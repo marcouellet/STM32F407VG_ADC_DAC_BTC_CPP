@@ -1,0 +1,9 @@
+dsp_main.cpp:15:6:void init_dsp()	8	static
+dsp_main.cpp:23:6:void process_dsp_clear(float32_t*, int)	16	static
+dsp_main.cpp:28:6:void process_dsp_with_factor(float32_t*, float32_t*, int, float)	40	static
+dsp_main.cpp:44:6:void process_dsp_balance_left(float32_t*, float32_t*, int)	32	static
+dsp_main.cpp:54:6:void process_dsp_balance_right(float32_t*, float32_t*, int)	32	static
+dsp_main.cpp:68:6:void process_dsp_volume(float32_t*, float32_t*, int)	32	static
+dsp_main.cpp:79:6:void process_dsp_left(float32_t*, float32_t*, int)	48	dynamic
+dsp_main.cpp:102:6:void process_dsp_right(float32_t*, float32_t*, int)	48	dynamic
+dsp_main.cpp:125:6:void process_dsp(float32_t*, float32_t*, float32_t*, float32_t*, int)	24	static

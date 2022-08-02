@@ -1,0 +1,5 @@
+dsp_iir_biquad.cpp:10:6:void process_dsp_iir_biquad_bass_left(float32_t*, float32_t*, int)	24	static
+dsp_iir_biquad.cpp:15:6:void process_dsp_iir_biquad_bass_right(float32_t*, float32_t*, int)	24	static
+dsp_iir_biquad.cpp:20:6:void process_dsp_iir_biquad_treble_left(float32_t*, float32_t*, int)	24	static
+dsp_iir_biquad.cpp:25:6:void process_dsp_iir_biquad_treble_right(float32_t*, float32_t*, int)	24	static
+dsp_iir_biquad.cpp:30:6:void init_dsp_iir_biquad()	8	static

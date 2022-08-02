@@ -1,0 +1,4 @@
+dsp_iir_biquad_treble.cpp:17:6:void init_dsp_iir_biquad_treble()	8	static
+dsp_iir_biquad_treble.cpp:34:13:float32_t* get_dsp_iir_biquad_treble_coeffs_for_level(tone_intensity_level)	24	static
+dsp_iir_biquad_treble.cpp:67:6:void process_dsp_iir_biquad_left_treble(float32_t*, float32_t*, tone_intensity_level)	24	static
+dsp_iir_biquad_treble.cpp:82:6:void process_dsp_iir_biquad_right_treble(float32_t*, float32_t*, tone_intensity_level)	24	static

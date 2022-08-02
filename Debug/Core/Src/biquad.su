@@ -1,0 +1,11 @@
+biquad.cpp:8:1:Biquad::Biquad()	16	static
+biquad.cpp:18:1:Biquad::Biquad(int, double, double, double)	40	static
+biquad.cpp:23:1:Biquad::~Biquad()	16	static
+biquad.cpp:26:6:void Biquad::setType(int)	16	static
+biquad.cpp:31:6:void Biquad::setQ(double)	24	static
+biquad.cpp:36:6:void Biquad::setFc(double)	24	static
+biquad.cpp:41:6:void Biquad::setPeakGain(double)	24	static
+biquad.cpp:46:6:void Biquad::setBiquad(int, double, double, double)	40	static
+cmath:475:5:constexpr typename __gnu_cxx::__enable_if<std::__is_integer<_Tp>::__value, double>::__type std::sqrt(_Tp) [with _Tp = int]	16	static
+biquad.cpp:53:6:void Biquad::calcBiquad()	56	static
+cmath:415:5:constexpr typename __gnu_cxx::__promote_2<_Tp, _Up>::__type std::pow(_Tp, _Up) [with _Tp = int; _Up = double]	24	static

@@ -1,0 +1,5 @@
+dsp_token.cpp:10:6:void get_token_value(const char*, uint16_t, int*, int*)	32	static
+dsp_token.cpp:38:5:int locate_token(char*, int, int*)	32	static
+dsp_token.cpp:49:6:void get_token_value(char*, uint16_t, int*, int*)	32	static
+dsp_token.cpp:77:6:void process_token(int, int)	16	static
+dsp_token.cpp:84:6:void process_token_updates(char*)	40	static

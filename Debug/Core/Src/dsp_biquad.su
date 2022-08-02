@@ -1,0 +1,10 @@
+biquad.hpp:48:14:float Biquad::process(float)	32	static
+dsp_biquad.cpp:19:6:void process_dsp_biquad(Biquad*, float32_t*, float32_t*, int)	40	static
+dsp_biquad.cpp:33:9:Biquad* get_biquad_for_level(tone_intensity_level)	32	static
+dsp_biquad.cpp:69:6:void set_dsp_biquad_bass_for_level(tone_intensity_level)	24	static
+dsp_biquad.cpp:84:6:void set_dsp_biquad_treble_for_level(tone_intensity_level)	24	static
+dsp_biquad.cpp:99:6:void process_dsp_biquad_bass_left(float32_t*, float32_t*, int)	24	static
+dsp_biquad.cpp:105:6:void process_dsp_biquad_bass_right(float32_t*, float32_t*, int)	24	static
+dsp_biquad.cpp:111:6:void process_dsp_biquad_treble_left(float32_t*, float32_t*, int)	24	static
+dsp_biquad.cpp:117:6:void process_dsp_biquad_treble_right(float32_t*, float32_t*, int)	24	static
+dsp_biquad.cpp:123:6:void init_dsp_biquad()	8	static

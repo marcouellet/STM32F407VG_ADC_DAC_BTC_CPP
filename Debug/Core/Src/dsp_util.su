@@ -1,0 +1,4 @@
+dsp_util.cpp:8:9:uint8_t string_compare(const char*, const char*, uint16_t)	32	static
+dsp_util.cpp:23:5:int char2int(const char*, size_t)	24	static
+dsp_util.cpp:56:7:char* int2char(int, char*)	32	static
+dsp_util.cpp:77:6:void dsp_copy(float32_t*, float32_t*, int)	24	static

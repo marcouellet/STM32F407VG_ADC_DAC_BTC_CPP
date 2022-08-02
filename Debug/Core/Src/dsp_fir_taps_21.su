@@ -1,0 +1,5 @@
+dsp_fir_taps_21.cpp:12:6:void process_dsp_fir_taps21_bass_left(float32_t*, float32_t*, int)	24	static
+dsp_fir_taps_21.cpp:17:6:void process_dsp_fir_taps21_bass_right(float32_t*, float32_t*, int)	24	static
+dsp_fir_taps_21.cpp:22:6:void process_dsp_fir_taps21_treble_left(float32_t*, float32_t*, int)	24	static
+dsp_fir_taps_21.cpp:27:6:void process_dsp_fir_taps21_treble_right(float32_t*, float32_t*, int)	24	static
+dsp_fir_taps_21.cpp:32:6:void init_dsp_fir_taps21()	8	static

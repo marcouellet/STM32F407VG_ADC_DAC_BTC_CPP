@@ -1,0 +1,4 @@
+dsp_fir_treble.cpp:16:6:void init_dsp_fir_treble()	16	static
+dsp_fir_treble.cpp:35:13:float32_t* get_dsp_fir_treble_coeffs_for_level(tone_intensity_level)	24	static
+dsp_fir_treble.cpp:69:6:void process_dsp_fir_treble_left(float32_t*, float32_t*, tone_intensity_level)	24	static
+dsp_fir_treble.cpp:84:6:void process_dsp_fir_treble_right(float32_t*, float32_t*, tone_intensity_level)	24	static

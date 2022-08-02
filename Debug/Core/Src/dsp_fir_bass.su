@@ -1,0 +1,4 @@
+dsp_fir_bass.cpp:16:6:void init_dsp_fir_bass()	16	static
+dsp_fir_bass.cpp:35:13:float32_t* get_dsp_fir_bass_coeffs_for_level(tone_intensity_level)	24	static
+dsp_fir_bass.cpp:69:6:void process_dsp_fir_bass_left(float32_t*, float32_t*, tone_intensity_level)	24	static
+dsp_fir_bass.cpp:84:6:void process_dsp_fir_bass_right(float32_t*, float32_t*, tone_intensity_level)	24	static

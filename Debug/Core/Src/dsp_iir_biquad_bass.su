@@ -1,0 +1,4 @@
+dsp_iir_biquad_bass.cpp:17:6:void init_dsp_iir_biquad_bass()	8	static
+dsp_iir_biquad_bass.cpp:34:13:float32_t* get_dsp_iir_biquad_bass_coeffs_for_level(tone_intensity_level)	24	static
+dsp_iir_biquad_bass.cpp:68:6:void process_dsp_iir_biquad_left_bass(float32_t*, float32_t*, tone_intensity_level)	24	static
+dsp_iir_biquad_bass.cpp:83:6:void process_dsp_iir_biquad_right_bass(float32_t*, float32_t*, tone_intensity_level)	24	static

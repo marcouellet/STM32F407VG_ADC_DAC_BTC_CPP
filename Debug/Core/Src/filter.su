@@ -1,0 +1,9 @@
+filter.cpp:49:1:Filter::Filter(filterType, int, double, double)	48	static
+filter.cpp:77:1:Filter::Filter(filterType, int, double, double, double)	56	static
+filter.cpp:108:1:Filter::~Filter()	16	static
+filter.cpp:115:1:void Filter::designLPF()	48	static
+filter.cpp:130:1:void Filter::designHPF()	56	static
+filter.cpp:145:1:void Filter::designBPF()	48	static
+filter.cpp:161:1:void Filter::get_taps(double*)	24	static
+filter.cpp:177:1:void Filter::init()	24	static
+filter.cpp:189:1:double Filter::do_sample(double)	40	static

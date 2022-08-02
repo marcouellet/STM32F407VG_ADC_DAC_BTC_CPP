@@ -1,0 +1,5 @@
+dsp_simple.cpp:21:11:float32_t simplp(float32_t*, float32_t*, int, float32_t)	32	static
+dsp_simple.cpp:32:6:void process_dsp_invert_with_lpf(float32_t*, float32_t*, float32_t*, int)	32	static
+dsp_simple.cpp:40:6:void process_dsp_simplp(float32_t*, float32_t*, float32_t&)	24	static
+dsp_simple.cpp:44:6:void process_dsp_simplp_bass(float32_t*, float32_t*, int)	24	static
+dsp_simple.cpp:52:6:void process_dsp_simphp_treble(float32_t*, float32_t*, int)	40	dynamic

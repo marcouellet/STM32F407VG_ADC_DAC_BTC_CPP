@@ -1,0 +1,4 @@
+dsp_fir_treble_taps_21.cpp:17:6:void init_dsp_fir_treble_taps21()	16	static
+dsp_fir_treble_taps_21.cpp:36:13:float32_t* get_dsp_fir_treble_taps21_coeffs_for_level(tone_intensity_level)	24	static
+dsp_fir_treble_taps_21.cpp:70:6:void process_dsp_fir_treble_taps21_left(float32_t*, float32_t*, tone_intensity_level)	24	static
+dsp_fir_treble_taps_21.cpp:85:6:void process_dsp_fir_treble_taps21_right(float32_t*, float32_t*, tone_intensity_level)	24	static
